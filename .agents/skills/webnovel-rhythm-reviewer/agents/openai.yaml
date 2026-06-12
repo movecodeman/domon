@@ -1,0 +1,4 @@
+interface:
+  display_name: "网文节奏审稿"
+  short_description: "审查钩子节奏与兑现"
+  default_prompt: "使用网文节奏审稿技能，评估章节或大纲的商业节奏、钩子和追读吸引力。"

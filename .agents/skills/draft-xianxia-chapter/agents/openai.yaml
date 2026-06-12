@@ -1,0 +1,4 @@
+interface:
+  display_name: "章节草稿"
+  short_description: "根据章节卡写修仙正文"
+  default_prompt: "使用章节草稿技能，依据当前章节表和故事圣经写一章修仙网文草稿。"

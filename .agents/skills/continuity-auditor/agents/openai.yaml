@@ -1,0 +1,4 @@
+interface:
+  display_name: "连续性审计"
+  short_description: "检查正史伏笔体系限制"
+  default_prompt: "使用连续性审计技能，检查当前大纲、章节草稿和正史追踪表中的矛盾。"

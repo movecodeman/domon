@@ -1,0 +1,4 @@
+interface:
+  display_name: "反撞车检查"
+  short_description: "检查标题设定撞车风险"
+  default_prompt: "使用反撞车检查技能，评估标题、简介、开局或核心桥段的撞车风险。"
